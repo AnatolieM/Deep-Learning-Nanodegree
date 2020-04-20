@@ -8,7 +8,7 @@ Built a simple neural network from scratch to predict daily bike rental ridershi
 
 **Project 2: [Dog Breed Classifier](https://github.com/Wilann/Dog-Breed-Classifier)**
 
-- 
+Built a pipeline involving Convolutional Neural Networks (CNN) that can be used to process real-world, user-supplied images. Given an image of a dog, the algorithm will identify an estimate of its breed. If supplied with an image of a human, the code will identify the resembling dog breed. 
 
 ## Course
 [Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
