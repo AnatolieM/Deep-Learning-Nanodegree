@@ -10,6 +10,10 @@ Built a simple neural network from scratch to predict daily bike rental ridershi
 
 Built a pipeline involving Convolutional Neural Networks (CNN) that can be used to process real-world, user-supplied images. Given an image of a dog, the algorithm will identify an estimate of its breed. If supplied with an image of a human, the code will identify the resembling dog breed. 
 
+**Project 3: [TV Script Generation](https://github.com/Wilann/TV-Script-Generation)**
+
+Generating fake TV scripts using RNNs based on patterns it recognizes in the training data.
+
 ## Course
 [Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
